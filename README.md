@@ -10,3 +10,9 @@ O projeto foi desenvolvido usando  o angular 9.
 ![CRUD](https://github.com/MariaMuniz/CRUD/blob/master/img/img2.png)
 ![CRUD](https://github.com/MariaMuniz/CRUD/blob/master/img/img3.png)
 ![CRUD](https://github.com/MariaMuniz/CRUD/blob/master/img/img4.png)
+
+# Para rodar a aplicação
+* na pasta frontend digite:
+npm start
+* na pasta backend digite:
+npm start
