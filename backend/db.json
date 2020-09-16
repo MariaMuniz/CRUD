@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notbook Mac",
+      "price": "12600.00"
+    },
+    {
+      "id": 3,
+      "name": "Sansung S20+",
+      "price": 4000.9
+    },
+    {
+      "name": "produto de teste",
+      "price": 125.5,
+      "id": 4
+    },
+    {
+      "name": "caneta verde",
+      "price": "0.99",
+      "id": 5
+    }
+  ]
+}
