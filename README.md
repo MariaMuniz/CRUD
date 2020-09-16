@@ -1,7 +1,8 @@
 # CRUD
-Crud com angular 9.
+
 CRUD é o acrônimo da expressão do idioma Inglês, Create (Criação),
 Read (Consulta), Update (Atualização) e Delete (Destruição). Este acrônimo é comumente utilizado para definir as quatro operações básicas usadas em Banco de Dados Relacionais.
+O projeto foi desenvolvido usando  o angular 9.
 
 # Demonstração 
 
